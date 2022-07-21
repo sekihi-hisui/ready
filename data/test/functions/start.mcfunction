@@ -1,0 +1,1 @@
+tellraw @a [{"text":"---------\nThanks!\n\ncreated by\n comman\n"},{"text":"\nYoutube-\n"},{"text":"喫茶店チョコスティックパン","hoverEvent":{"action":"show_text","value":"https://www.youtube.com/channel/UCOiA6t6k2a02Faolt9IfDpw"},"clickEvent":{"action":"open_url","value":"https://www.youtube.com/channel/UCOiA6t6k2a02Faolt9IfDpw"}},{"text":"\n\n---------"}]
